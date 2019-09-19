@@ -11,7 +11,7 @@
 <packaging>war</packaging>
 	<groupId>com.smithdrug</groupId>
 	<artifactId>smithgateway</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>smithgateway</name>
 	<description>SmithDrug gateway services</description>
 
